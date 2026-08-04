@@ -1,0 +1,9 @@
+Session
+
+promocode_name = ชื่อ Promocode
+promocode_discount = ส่วนลด
+promocode_type = ลดเป็น % หรือเป็นบาท
+giftset_id = id ของ GiftSet ที่จะแถม
+promocode_free_shipping = 'Yes'
+
+promocode_frontend_discount = ราคาที่จะลด
