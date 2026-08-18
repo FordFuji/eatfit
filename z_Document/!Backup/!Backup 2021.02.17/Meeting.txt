@@ -1,9 +1,0 @@
-Gourmet
-1. เขียนระยะเวลา เมนู Complete purchase promotion
-2.Promocode
-3. Point Redeem มีส่วนลด
-4. Promotion 1 แถม 1 มี Period
-5. Package จับคู่  ไม่ต้องลด
-6. Point ลูกค้า จะดูวันที่ 5
-7. Login Facebook ยังไม่ได้
-8. กสิกร โทรตาม K.รัตน์
